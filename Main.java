@@ -5,7 +5,7 @@ public class Main {
 		int c = 3;
 		int d = 4;
 		int e = 5;
-        
-        System.out.println("Don't drink too much");
+		System.out.println("Happy New Year!");
+
 	}
 }
